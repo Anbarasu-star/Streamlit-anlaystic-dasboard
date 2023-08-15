@@ -1,0 +1,17 @@
+[data-testid=metric-container] {
+    box-shadow: 0 0 4px #c9c7c7;
+    padding: 10px;
+}
+
+.plot-container>div {
+    box-shadow: 0 0 4px #f20909;
+    padding: 10px;
+    
+   
+}
+
+div[data-testid="stExpander"] div[role="button"] p
+{
+    font-size: 1.3rem;
+    color:rgb(42, 44, 44);
+}
